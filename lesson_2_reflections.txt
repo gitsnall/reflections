@@ -1,0 +1,6 @@
+Q1 What happens when you initialize a repository? Why do you need to do it?
+You generate a .git file which tracks the history of your commits of the repository.
+***
+
+Q2 How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is a buffer zone between the working directory and the repository. It allows you to put things you want to commit to the repository in it before you actually commit it. It give you a chance to change things you want to commit to the repository.
