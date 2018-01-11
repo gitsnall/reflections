@@ -17,3 +17,11 @@ If you want to experiment some new features which add to the original code while
 Q5 How do the diagrams help you visualize the branch structure?
 It shows you how the commits are organize, and make you able to track down the history of branches.
 ***
+
+Q6 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It merge the codes from two branches into one.
+***
+
+Q7 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros: Git saves you time using automatic merging. It is very helpful if two people work on adding two different features to the original code.
+cons: May be hard to track how the merge occurs.
